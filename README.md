@@ -1,9 +1,10 @@
-**Pizza Sales Analysis**
+###Pizza Sales Analysis
 
 Overview
 This repository contains code and data for analyzing pizza sales data. The analysis provides insights into sales trends, peak hours, best and worst-selling pizzas, seasonal trends, and average order value.
 
 **Dataset**
+
 The dataset consists of four CSV files:
 
 orders.csv: Contains information about orders including order ID, date, and time.
@@ -12,6 +13,7 @@ pizzas.csv: Provides information about different pizza types including pizza ID,
 pizza_types.csv: Contains details about pizza types including pizza type ID, name, category, and ingredients.
 
 **Analysis**
+
 The analysis covers the following aspects:
 
 1. Busiest Days and Hours: Identifies the busiest days of the week and peak hours for pizza orders.
@@ -20,6 +22,7 @@ The analysis covers the following aspects:
 4. Average Order Value: Calculates the average value of each order.
 
 **Key Findings**
+
 Friday emerges as the busiest day of the week for pizza orders, with peak order volumes observed around midday.
 "thai_ckn" is identified as the best-selling pizza, while "brie_carre" is the worst-selling pizza.
 July and May exhibit the highest sales volume, indicating potential seasonality in pizza consumption.
