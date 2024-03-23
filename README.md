@@ -6,6 +6,7 @@ This repository contains code and data for analyzing pizza sales data. The analy
 **Dataset**
 
 The dataset consists of four CSV files:
+
 orders.csv: Contains information about orders including order ID, date, and time.
 order_details.csv: Includes details about each order such as pizza ID, quantity, and order ID.
 pizzas.csv: Provides information about different pizza types including pizza ID, pizza type ID, size, and price.
@@ -14,6 +15,7 @@ pizza_types.csv: Contains details about pizza types including pizza type ID, nam
 **Analysis**
 
 The analysis covers the following aspects:
+
 1. Busiest Days and Hours: Identifies the busiest days of the week and peak hours for pizza orders.
 2. Best and Worst Selling Pizzas: Determines the best and worst-selling pizzas based on sales revenue.
 3. Seasonal Trends: Investigates seasonal trends in pizza sales.
